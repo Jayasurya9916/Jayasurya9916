@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayasurya</h1>
+<h1 align="center">Hi 👋, I'm Jayasurya M</h1>
 <h3 align="center">A Beginner frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Web Development**
