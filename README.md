@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayasurya M</h1>
-<h3 align="center">A Beginner frontend developer from India</h3>
+<h3 align="center">A Beginner frontend and java developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently studing **MCA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
